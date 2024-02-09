@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(174, 174, 224, 0.753);
+ margin-top: 360px;
+   font-family: Outfit;
+}
+
+main{
+    max-width: 250px;
+    padding-bottom: 30px;
+    margin:auto;
+    background-color: white;
+    
+    align-items: center;
+
+    text-align: center;
+    padding-top: 20px;
+
+    border-radius: 8px;
+}
+
+img{
+    border-radius: 8px;
+}
+
+h1{
+    justify-content: center;
+    font-size: medium;
+    padding-top: 20px;
+    text-align: center;
+}
+
+p{
+    font-size: medium;
+    padding-top: 20px;
+    color: rgba(127, 132, 138, 0.884);
+}
