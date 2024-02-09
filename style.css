@@ -6,7 +6,10 @@
 
 body{
     background-color: rgba(174, 174, 224, 0.753);
- margin-top: 360px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
    font-family: Outfit;
 }
 
